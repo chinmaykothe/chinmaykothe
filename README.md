@@ -34,11 +34,20 @@ Passionate software developer with a love for coding and creating innovative sol
 
 ### [Infosys](https://companywebsite.com)
 *Senior Software Engineer* (Nov 2021 - Present)
-- Brief description of your role and responsibilities.
+- Client revenue 50+ Billion , managed n/w of 10 manufacturing plants & 80+  centers.
+- Reduced 30 tickets resolution time by virtue of used cases and cross-training between the team. 
+- Improved adherence to SLAs by the cross-team structure;
+- Replaced senior members by upskilling, saved INR 2+ Million/year
 
 ### [Fendahl Technology LLC](https://anothercompany.com)
 *Software Engineer* (Aug 2020 - Nov 2021)
-- Brief description of your role and responsibilities.
+- Implementation of trading system - Fusion CTRM for their European Agricultural Commodity client.
+- Exposure by working on the design, development, testing to production implementation in all areas of the Deal Life Cycle.
+- Executing complex business scenarios on Fusion CTRM tool.
+- Planning, estimations and requirement gathering of change requests for monthly releases.
+- Handling UAT and PROD deployment for monthly releases.
+- Root cause analysis of production issues & follow up with development teams.
+- Involved in impact analysis of changing requirements.
 
 ## 🌱 Currently Learning
 
